@@ -21,6 +21,7 @@
 		3AA3FFD1230D412F00FDF7C8 /* 18_array_v1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AA3FFD0230D412F00FDF7C8 /* 18_array_v1.cpp */; };
 		3AA3FFD3230D484400FDF7C8 /* 26_array_v1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AA3FFD2230D484400FDF7C8 /* 26_array_v1.cpp */; };
 		3AA3FFD5230D49BD00FDF7C8 /* 27_array_v1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AA3FFD4230D49BD00FDF7C8 /* 27_array_v1.cpp */; };
+		3AA3FFD7230D6C1A00FDF7C8 /* 27_array_v2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AA3FFD6230D6C1A00FDF7C8 /* 27_array_v2.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -51,6 +52,7 @@
 		3AA3FFD0230D412F00FDF7C8 /* 18_array_v1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 18_array_v1.cpp; sourceTree = "<group>"; };
 		3AA3FFD2230D484400FDF7C8 /* 26_array_v1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 26_array_v1.cpp; sourceTree = "<group>"; };
 		3AA3FFD4230D49BD00FDF7C8 /* 27_array_v1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 27_array_v1.cpp; sourceTree = "<group>"; };
+		3AA3FFD6230D6C1A00FDF7C8 /* 27_array_v2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 27_array_v2.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				3AA3FFD0230D412F00FDF7C8 /* 18_array_v1.cpp */,
 				3AA3FFD2230D484400FDF7C8 /* 26_array_v1.cpp */,
 				3AA3FFD4230D49BD00FDF7C8 /* 27_array_v1.cpp */,
+				3AA3FFD6230D6C1A00FDF7C8 /* 27_array_v2.cpp */,
 			);
 			path = array;
 			sourceTree = "<group>";
@@ -176,6 +179,7 @@
 				3A58D5FA230A277D0033F424 /* 4_array_v2.cpp in Sources */,
 				3A58D5EE230535070033F424 /* 1_array_v1.cpp in Sources */,
 				3A58D5FE230A30520033F424 /* 11_array_v2.cpp in Sources */,
+				3AA3FFD7230D6C1A00FDF7C8 /* 27_array_v2.cpp in Sources */,
 				3A58D5F8230960AB0033F424 /* 4_array_v1.cpp in Sources */,
 				3A58D604230A85E20033F424 /* 15_array_v2.cpp in Sources */,
 				3AA3FFD3230D484400FDF7C8 /* 26_array_v1.cpp in Sources */,
