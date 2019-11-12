@@ -48,6 +48,9 @@
 		3A7AB26B237971AE007F2EE4 /* 406_v2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A7AB26A237971AE007F2EE4 /* 406_v2.cpp */; };
 		3A7AB26D2379765E007F2EE4 /* 406_v3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A7AB26C2379765E007F2EE4 /* 406_v3.cpp */; };
 		3A7AB26F23797752007F2EE4 /* 406_v4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A7AB26E23797752007F2EE4 /* 406_v4.cpp */; };
+		3A7AB271237AA664007F2EE4 /* 435_v1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A7AB270237AA664007F2EE4 /* 435_v1.cpp */; };
+		3A7AB273237AAE6A007F2EE4 /* 452_v1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A7AB272237AAE6A007F2EE4 /* 452_v1.cpp */; };
+		3A7AB275237AB019007F2EE4 /* 452_v2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A7AB274237AB019007F2EE4 /* 452_v2.cpp */; };
 		3AA3FFC7230CCE1600FDF7C8 /* 16_array_v1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AA3FFC6230CCE1600FDF7C8 /* 16_array_v1.cpp */; };
 		3AA3FFD1230D412F00FDF7C8 /* 18_array_v1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AA3FFD0230D412F00FDF7C8 /* 18_array_v1.cpp */; };
 		3AA3FFD3230D484400FDF7C8 /* 26_array_v1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AA3FFD2230D484400FDF7C8 /* 26_array_v1.cpp */; };
@@ -119,6 +122,9 @@
 		3A7AB26A237971AE007F2EE4 /* 406_v2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 406_v2.cpp; sourceTree = "<group>"; };
 		3A7AB26C2379765E007F2EE4 /* 406_v3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 406_v3.cpp; sourceTree = "<group>"; };
 		3A7AB26E23797752007F2EE4 /* 406_v4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 406_v4.cpp; sourceTree = "<group>"; };
+		3A7AB270237AA664007F2EE4 /* 435_v1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 435_v1.cpp; sourceTree = "<group>"; };
+		3A7AB272237AAE6A007F2EE4 /* 452_v1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 452_v1.cpp; sourceTree = "<group>"; };
+		3A7AB274237AB019007F2EE4 /* 452_v2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 452_v2.cpp; sourceTree = "<group>"; };
 		3AA3FFC6230CCE1600FDF7C8 /* 16_array_v1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 16_array_v1.cpp; sourceTree = "<group>"; };
 		3AA3FFD0230D412F00FDF7C8 /* 18_array_v1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 18_array_v1.cpp; sourceTree = "<group>"; };
 		3AA3FFD2230D484400FDF7C8 /* 26_array_v1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 26_array_v1.cpp; sourceTree = "<group>"; };
@@ -206,6 +212,9 @@
 				3A7AB26A237971AE007F2EE4 /* 406_v2.cpp */,
 				3A7AB26C2379765E007F2EE4 /* 406_v3.cpp */,
 				3A7AB26E23797752007F2EE4 /* 406_v4.cpp */,
+				3A7AB270237AA664007F2EE4 /* 435_v1.cpp */,
+				3A7AB272237AAE6A007F2EE4 /* 452_v1.cpp */,
+				3A7AB274237AB019007F2EE4 /* 452_v2.cpp */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -311,9 +320,11 @@
 				3AA3FFE92312DE4300FDF7C8 /* 31_array_v2.cpp in Sources */,
 				3A3FBA202369D3ED0045D9E5 /* 134_v3.cpp in Sources */,
 				3A3FB9E7235306F00045D9E5 /* LongestCommonSubstring_v1.cpp in Sources */,
+				3A7AB271237AA664007F2EE4 /* 435_v1.cpp in Sources */,
 				3AA3FFF2231EB6DF00FDF7C8 /* 55_array_v2.cpp in Sources */,
 				3A7AB2612375BD1D007F2EE4 /* 67_v1.cpp in Sources */,
 				3A3FBA182361C5240045D9E5 /* 121_v1.cpp in Sources */,
+				3A7AB275237AB019007F2EE4 /* 452_v2.cpp in Sources */,
 				3A3FBA1A2361C65A0045D9E5 /* 121_v2.cpp in Sources */,
 				3AA3FFD5230D49BD00FDF7C8 /* 27_array_v1.cpp in Sources */,
 				3A3FB9F1235619110045D9E5 /* 64_v1.cpp in Sources */,
@@ -337,6 +348,7 @@
 				3A3FBA1C2369D0010045D9E5 /* 134_v1.cpp in Sources */,
 				3A3FB9EF2355FA350045D9E5 /* 63_v1.cpp in Sources */,
 				3A58D5FE230A30520033F424 /* 11_array_v2.cpp in Sources */,
+				3A7AB273237AAE6A007F2EE4 /* 452_v1.cpp in Sources */,
 				3A7AB26923796F26007F2EE4 /* 406_v1.cpp in Sources */,
 				3AA3FFE1231282CB00FDF7C8 /* 33_array_v1.cpp in Sources */,
 				3A7AB26D2379765E007F2EE4 /* 406_v3.cpp in Sources */,
