@@ -87,6 +87,7 @@
 		3A62A77723938D4200ACD0B3 /* 207_v2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A62A77623938D4200ACD0B3 /* 207_v2.cpp */; };
 		3A62A77923939B7400ACD0B3 /* 199_v1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A62A77823939B7400ACD0B3 /* 199_v1.cpp */; };
 		3A62A77B23939CFE00ACD0B3 /* 199_v2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A62A77A23939CFE00ACD0B3 /* 199_v2.cpp */; };
+		3A62A77D2393B1DD00ACD0B3 /* 133_v1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A62A77C2393B1DD00ACD0B3 /* 133_v1.cpp */; };
 		3A7AB2612375BD1D007F2EE4 /* 67_v1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A7AB2602375BD1D007F2EE4 /* 67_v1.cpp */; };
 		3A7AB26323769C13007F2EE4 /* 330_v1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A7AB26223769C13007F2EE4 /* 330_v1.cpp */; };
 		3A7AB2652376AEBC007F2EE4 /* 330_v2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A7AB2642376AEBC007F2EE4 /* 330_v2.cpp */; };
@@ -217,6 +218,7 @@
 		3A62A77623938D4200ACD0B3 /* 207_v2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 207_v2.cpp; sourceTree = "<group>"; };
 		3A62A77823939B7400ACD0B3 /* 199_v1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 199_v1.cpp; sourceTree = "<group>"; };
 		3A62A77A23939CFE00ACD0B3 /* 199_v2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 199_v2.cpp; sourceTree = "<group>"; };
+		3A62A77C2393B1DD00ACD0B3 /* 133_v1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 133_v1.cpp; sourceTree = "<group>"; };
 		3A7AB2602375BD1D007F2EE4 /* 67_v1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 67_v1.cpp; sourceTree = "<group>"; };
 		3A7AB26223769C13007F2EE4 /* 330_v1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 330_v1.cpp; sourceTree = "<group>"; };
 		3A7AB2642376AEBC007F2EE4 /* 330_v2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 330_v2.cpp; sourceTree = "<group>"; };
@@ -382,6 +384,7 @@
 				3A62A77623938D4200ACD0B3 /* 207_v2.cpp */,
 				3A62A77823939B7400ACD0B3 /* 199_v1.cpp */,
 				3A62A77A23939CFE00ACD0B3 /* 199_v2.cpp */,
+				3A62A77C2393B1DD00ACD0B3 /* 133_v1.cpp */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -526,6 +529,7 @@
 				3AA3FFE32312883A00FDF7C8 /* 34_array_v1.cpp in Sources */,
 				3A322F65238E7279008F078A /* 100_v2.cpp in Sources */,
 				3A62A77B23939CFE00ACD0B3 /* 199_v2.cpp in Sources */,
+				3A62A77D2393B1DD00ACD0B3 /* 133_v1.cpp in Sources */,
 				3A22F5E1236C82DB008EE812 /* 621_v1.cpp in Sources */,
 				3A58D5FA230A277D0033F424 /* 4_array_v2.cpp in Sources */,
 				3A322F63238E7077008F078A /* 100_v1.cpp in Sources */,
