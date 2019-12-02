@@ -134,6 +134,7 @@
 		3AFE1EA42395383800BB3AA3 /* 993_v1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AFE1EA32395383800BB3AA3 /* 993_v1.cpp */; };
 		3AFE1EA623953B5F00BB3AA3 /* 429_v1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AFE1EA523953B5F00BB3AA3 /* 429_v1.cpp */; };
 		3AFE1EA823953C8100BB3AA3 /* 513_v1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AFE1EA723953C8100BB3AA3 /* 513_v1.cpp */; };
+		3AFE1EAA23953E7A00BB3AA3 /* 515_v1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AFE1EA923953E7A00BB3AA3 /* 515_v1.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -279,6 +280,7 @@
 		3AFE1EA32395383800BB3AA3 /* 993_v1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 993_v1.cpp; sourceTree = "<group>"; };
 		3AFE1EA523953B5F00BB3AA3 /* 429_v1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 429_v1.cpp; sourceTree = "<group>"; };
 		3AFE1EA723953C8100BB3AA3 /* 513_v1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 513_v1.cpp; sourceTree = "<group>"; };
+		3AFE1EA923953E7A00BB3AA3 /* 515_v1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 515_v1.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -424,6 +426,7 @@
 				3AFE1EA32395383800BB3AA3 /* 993_v1.cpp */,
 				3AFE1EA523953B5F00BB3AA3 /* 429_v1.cpp */,
 				3AFE1EA723953C8100BB3AA3 /* 513_v1.cpp */,
+				3AFE1EA923953E7A00BB3AA3 /* 515_v1.cpp */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -544,6 +547,7 @@
 				3A3FBA202369D3ED0045D9E5 /* 134_v3.cpp in Sources */,
 				3A3FB9E7235306F00045D9E5 /* LongestCommonSubstring_v1.cpp in Sources */,
 				3A62A759238F986900ACD0B3 /* 102_v1.cpp in Sources */,
+				3AFE1EAA23953E7A00BB3AA3 /* 515_v1.cpp in Sources */,
 				3A7AB271237AA664007F2EE4 /* 435_v1.cpp in Sources */,
 				3A3887FD2382EC3E009EADFB /* 874_v1.cpp in Sources */,
 				3A412D8D2386D3380093A60A /* 49_v1.cpp in Sources */,
