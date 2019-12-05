@@ -137,6 +137,7 @@
 		3AFE1EAA23953E7A00BB3AA3 /* 515_v1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AFE1EA923953E7A00BB3AA3 /* 515_v1.cpp */; };
 		3AFE1EAC2397F95400BB3AA3 /* 279_v1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AFE1EAB2397F95400BB3AA3 /* 279_v1.cpp */; };
 		3AFE1EAE239805C800BB3AA3 /* 310_v1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AFE1EAD239805C800BB3AA3 /* 310_v1.cpp */; };
+		3AFE1EB02399556F00BB3AA3 /* 310_v2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AFE1EAF2399556F00BB3AA3 /* 310_v2.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -285,6 +286,7 @@
 		3AFE1EA923953E7A00BB3AA3 /* 515_v1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 515_v1.cpp; sourceTree = "<group>"; };
 		3AFE1EAB2397F95400BB3AA3 /* 279_v1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 279_v1.cpp; sourceTree = "<group>"; };
 		3AFE1EAD239805C800BB3AA3 /* 310_v1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 310_v1.cpp; sourceTree = "<group>"; };
+		3AFE1EAF2399556F00BB3AA3 /* 310_v2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 310_v2.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -433,6 +435,7 @@
 				3AFE1EA923953E7A00BB3AA3 /* 515_v1.cpp */,
 				3AFE1EAB2397F95400BB3AA3 /* 279_v1.cpp */,
 				3AFE1EAD239805C800BB3AA3 /* 310_v1.cpp */,
+				3AFE1EAF2399556F00BB3AA3 /* 310_v2.cpp */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -536,6 +539,7 @@
 				3A3FB9F32358AF690045D9E5 /* 44_v1.cpp in Sources */,
 				3A322F6B238E8406008F078A /* 108_v1.cpp in Sources */,
 				3A7AB27D237AF0AC007F2EE4 /* 1189_v1.cpp in Sources */,
+				3AFE1EB02399556F00BB3AA3 /* 310_v2.cpp in Sources */,
 				3AFE1EA823953C8100BB3AA3 /* 513_v1.cpp in Sources */,
 				3A3FB9F72358C4690045D9E5 /* 58_v1.cpp in Sources */,
 				3AA3FFC7230CCE1600FDF7C8 /* 16_array_v1.cpp in Sources */,
