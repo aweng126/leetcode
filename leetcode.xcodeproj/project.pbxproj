@@ -139,6 +139,9 @@
 		3AFE1EAE239805C800BB3AA3 /* 310_v1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AFE1EAD239805C800BB3AA3 /* 310_v1.cpp */; };
 		3AFE1EB02399556F00BB3AA3 /* 310_v2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AFE1EAF2399556F00BB3AA3 /* 310_v2.cpp */; };
 		3AFE1EB22399566400BB3AA3 /* 310_v3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AFE1EB12399566400BB3AA3 /* 310_v3.cpp */; };
+		3AFE1EB4239957C800BB3AA3 /* 137_v1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AFE1EB3239957C800BB3AA3 /* 137_v1.cpp */; };
+		3AFE1EB6239A5BA500BB3AA3 /* 137_v2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AFE1EB5239A5BA500BB3AA3 /* 137_v2.cpp */; };
+		3AFE1EB8239D424200BB3AA3 /* 129_v1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AFE1EB7239D424200BB3AA3 /* 129_v1.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -289,6 +292,9 @@
 		3AFE1EAD239805C800BB3AA3 /* 310_v1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 310_v1.cpp; sourceTree = "<group>"; };
 		3AFE1EAF2399556F00BB3AA3 /* 310_v2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 310_v2.cpp; sourceTree = "<group>"; };
 		3AFE1EB12399566400BB3AA3 /* 310_v3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 310_v3.cpp; sourceTree = "<group>"; };
+		3AFE1EB3239957C800BB3AA3 /* 137_v1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 137_v1.cpp; sourceTree = "<group>"; };
+		3AFE1EB5239A5BA500BB3AA3 /* 137_v2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 137_v2.cpp; sourceTree = "<group>"; };
+		3AFE1EB7239D424200BB3AA3 /* 129_v1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 129_v1.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -439,6 +445,9 @@
 				3AFE1EAD239805C800BB3AA3 /* 310_v1.cpp */,
 				3AFE1EAF2399556F00BB3AA3 /* 310_v2.cpp */,
 				3AFE1EB12399566400BB3AA3 /* 310_v3.cpp */,
+				3AFE1EB3239957C800BB3AA3 /* 137_v1.cpp */,
+				3AFE1EB5239A5BA500BB3AA3 /* 137_v2.cpp */,
+				3AFE1EB7239D424200BB3AA3 /* 129_v1.cpp */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -560,10 +569,12 @@
 				3A3FBA202369D3ED0045D9E5 /* 134_v3.cpp in Sources */,
 				3A3FB9E7235306F00045D9E5 /* LongestCommonSubstring_v1.cpp in Sources */,
 				3A62A759238F986900ACD0B3 /* 102_v1.cpp in Sources */,
+				3AFE1EB8239D424200BB3AA3 /* 129_v1.cpp in Sources */,
 				3AFE1EAA23953E7A00BB3AA3 /* 515_v1.cpp in Sources */,
 				3A7AB271237AA664007F2EE4 /* 435_v1.cpp in Sources */,
 				3A3887FD2382EC3E009EADFB /* 874_v1.cpp in Sources */,
 				3A412D8D2386D3380093A60A /* 49_v1.cpp in Sources */,
+				3AFE1EB6239A5BA500BB3AA3 /* 137_v2.cpp in Sources */,
 				3AA3FFF2231EB6DF00FDF7C8 /* 55_array_v2.cpp in Sources */,
 				3A7AB2612375BD1D007F2EE4 /* 67_v1.cpp in Sources */,
 				3A412D912386D5A50093A60A /* 136_v1.cpp in Sources */,
@@ -621,6 +632,7 @@
 				3A322F6F238E9F0D008F078A /* 110_v1.cpp in Sources */,
 				3A322F69238E788F008F078A /* 104_v1.cpp in Sources */,
 				3A62A765239277F800ACD0B3 /* 342_v2.cpp in Sources */,
+				3AFE1EB4239957C800BB3AA3 /* 137_v1.cpp in Sources */,
 				3A3FB9EF2355FA350045D9E5 /* 63_v1.cpp in Sources */,
 				3A58D5FE230A30520033F424 /* 11_array_v2.cpp in Sources */,
 				3A62A77F2393EA1100ACD0B3 /* 130_v1.cpp in Sources */,
