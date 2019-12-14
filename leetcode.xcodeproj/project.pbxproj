@@ -13,6 +13,9 @@
 		3A0B92CB23A291DB00984DE9 /* 167_v1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A0B92CA23A291DB00984DE9 /* 167_v1.cpp */; };
 		3A0B92CD23A295EE00984DE9 /* 167_v2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A0B92CC23A295EE00984DE9 /* 167_v2.cpp */; };
 		3A0B92CF23A296F200984DE9 /* 167_v3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A0B92CE23A296F200984DE9 /* 167_v3.cpp */; };
+		3A0E228723A4C4F700C09394 /* 187_ v1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A0E228623A4C4F700C09394 /* 187_ v1.cpp */; };
+		3A0E228923A4C64E00C09394 /* 187_v2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A0E228823A4C64E00C09394 /* 187_v2.cpp */; };
+		3A0E228B23A4CCFE00C09394 /* 187_v3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A0E228A23A4CCFE00C09394 /* 187_v3.cpp */; };
 		3A223874234A0E59000B49A9 /* 3_v1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A223873234A0E59000B49A9 /* 3_v1.cpp */; };
 		3A223876234A172D000B49A9 /* 3_v2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A223875234A172C000B49A9 /* 3_v2.cpp */; };
 		3A22F5E1236C82DB008EE812 /* 621_v1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A22F5E0236C82DB008EE812 /* 621_v1.cpp */; };
@@ -179,6 +182,9 @@
 		3A0B92CA23A291DB00984DE9 /* 167_v1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 167_v1.cpp; sourceTree = "<group>"; };
 		3A0B92CC23A295EE00984DE9 /* 167_v2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 167_v2.cpp; sourceTree = "<group>"; };
 		3A0B92CE23A296F200984DE9 /* 167_v3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 167_v3.cpp; sourceTree = "<group>"; };
+		3A0E228623A4C4F700C09394 /* 187_ v1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "187_ v1.cpp"; sourceTree = "<group>"; };
+		3A0E228823A4C64E00C09394 /* 187_v2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 187_v2.cpp; sourceTree = "<group>"; };
+		3A0E228A23A4CCFE00C09394 /* 187_v3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 187_v3.cpp; sourceTree = "<group>"; };
 		3A223873234A0E59000B49A9 /* 3_v1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 3_v1.cpp; sourceTree = "<group>"; };
 		3A223875234A172C000B49A9 /* 3_v2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 3_v2.cpp; sourceTree = "<group>"; };
 		3A22F5E0236C82DB008EE812 /* 621_v1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 621_v1.cpp; sourceTree = "<group>"; };
@@ -496,6 +502,9 @@
 				3A0B92CA23A291DB00984DE9 /* 167_v1.cpp */,
 				3A0B92CC23A295EE00984DE9 /* 167_v2.cpp */,
 				3A0B92CE23A296F200984DE9 /* 167_v3.cpp */,
+				3A0E228623A4C4F700C09394 /* 187_ v1.cpp */,
+				3A0E228823A4C64E00C09394 /* 187_v2.cpp */,
+				3A0E228A23A4CCFE00C09394 /* 187_v3.cpp */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -629,6 +638,7 @@
 				3A412D8D2386D3380093A60A /* 49_v1.cpp in Sources */,
 				3AFE1EB6239A5BA500BB3AA3 /* 137_v2.cpp in Sources */,
 				3AA3FFF2231EB6DF00FDF7C8 /* 55_array_v2.cpp in Sources */,
+				3A0E228923A4C64E00C09394 /* 187_v2.cpp in Sources */,
 				3A7AB2612375BD1D007F2EE4 /* 67_v1.cpp in Sources */,
 				3A412D912386D5A50093A60A /* 136_v1.cpp in Sources */,
 				3A3FBA182361C5240045D9E5 /* 121_v1.cpp in Sources */,
@@ -654,6 +664,7 @@
 				3A3888072383A19E009EADFB /* 970_v2.cpp in Sources */,
 				3AFE1EAC2397F95400BB3AA3 /* 279_v1.cpp in Sources */,
 				3A22F5E723727875008EE812 /* 81_v1.cpp in Sources */,
+				3A0E228723A4C4F700C09394 /* 187_ v1.cpp in Sources */,
 				3A3888092383EE5B009EADFB /* 1217_v1.cpp in Sources */,
 				3AFE1EA42395383800BB3AA3 /* 993_v1.cpp in Sources */,
 				3A412D952386DADF0093A60A /* 94_v1.cpp in Sources */,
@@ -681,6 +692,7 @@
 				3AFE1EC0239FD29700BB3AA3 /* 138_v2.cpp in Sources */,
 				3AA3FFE5231289E900FDF7C8 /* 35_array_v1.cpp in Sources */,
 				3A3887F8237C1F83009EADFB /* 861_v1.cpp in Sources */,
+				3A0E228B23A4CCFE00C09394 /* 187_v3.cpp in Sources */,
 				3A62A75D238FB1A200ACD0B3 /* 111_v1.cpp in Sources */,
 				3A223876234A172D000B49A9 /* 3_v2.cpp in Sources */,
 				3A3FB9E9235309200045D9E5 /* LongestCommonSubstring_v2.cpp in Sources */,
